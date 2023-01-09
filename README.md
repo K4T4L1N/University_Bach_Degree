@@ -8,6 +8,6 @@
 
 ## Cerințe
 
-> Sa doreste implementarea unei aplicatii Web destinata colectionarilor de artefacte filatelice. 
+> Sa urmareste implementarea unei aplicatii Web destinata colectionarilor de artefacte filatelice. 
 > Pe baza facilitatilor de cautare multi-criteriala implementate, utilizatorii autentificati vor putea crea, inventaria si partaja albume de timbre in functie de diverse caracteristici (imagine, valoare, tara, perioada de emisie, istoric, existenta stampilei, grad de deteriorare etc.). 
 > Exemplu: _**[Stamp World](https://www.stampworld.com/en/)**_.
